@@ -10,7 +10,8 @@ The repository contains three separate datasets, each corresponding to the outpu
 
 If you use this dataset, please cite it as follows:
 
-S. Saka, A. Al-Ataby, and V. Selis, "Generating Synthetic Tabular Data for DDoS Detection Using Generative Models," 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Exeter, United Kingdom, 2023, pp. 1436-1442, doi: 10.1109/TrustCom60117.2023.00196.
+S. Saka, A. Al-Ataby and V. Selis, "Generating Synthetic Tabular Data for DDoS Detection Using Generative Models," 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Exeter, United Kingdom, 2023, pp. 1436-1442, doi: 10.1109/TrustCom60117.2023.00196.
+
 ---
 
 By using these synthetic DDoS datasets, we hope to facilitate the advancement of DDoS detection techniques and contribute to the overall improvement of cybersecurity solutions. If you have any questions or feedback, please don't hesitate to create an issue or contact us directly. 
